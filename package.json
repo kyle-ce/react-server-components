@@ -1,0 +1,35 @@
+{
+  "name": "react-server-components",
+  "version": "1.0.0",
+  "description": "Tutorial for react server components",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kxc184/react-server-components.git"
+  },
+  "keywords": [
+    "ssr",
+    "ssg",
+    "serverside",
+    "react"
+  ],
+  "author": "Kyle C",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kxc184/react-server-components/issues"
+  },
+  "homepage": "https://github.com/kxc184/react-server-components#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.5.0",
+    "typescript": "^5.5.4"
+  }
+}
